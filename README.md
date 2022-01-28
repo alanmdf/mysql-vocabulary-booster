@@ -1,4 +1,4 @@
-# MYSQL - Vocabulary Booster 🔤
+# MYSQL - Vocabulary Booster 🔤⬆️
 
 # Contexto
 Projeto realizado durante a trilha de aprendizado de Back End na Trybe. Tem como objetivo avaliar o conhecimento na implementação de queries mais elaboradas, com utilização de diversos comandos e relações entre tabelas.
